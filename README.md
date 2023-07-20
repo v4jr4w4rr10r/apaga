@@ -1,7 +1,6 @@
 
 # apaga: Guttman method made easy with shred
 
-ASCII Art:
 ```                                
   ____ _____  ____ _____ _____ _
  / __ `/ __ \/ __ `/ __ `/ __ `/
